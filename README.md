@@ -1,8 +1,9 @@
 # sarkispackage
 ## How to install
 
-
-> npm install sarkispackage
+NPM
+``` npm install sarkispackage
+```
 
 ## Usage
 
