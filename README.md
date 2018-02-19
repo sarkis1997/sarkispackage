@@ -2,7 +2,8 @@
 ## How to install
 
 NPM
-``` npm install sarkispackage
+``` 
+npm install sarkispackage
 ```
 
 ## Usage
